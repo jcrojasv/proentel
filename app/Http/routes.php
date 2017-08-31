@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/','HomeController@index');
+Route::get('/','HomeeeeeController@index');
 
 /* Agrego un lenguarada en esta linea dfsafdasfsdfsf 
 * ahora es multilinea
